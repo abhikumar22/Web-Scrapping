@@ -6,4 +6,4 @@ Here names of hollywood movies are scrapped from websites and then stored in a c
 
 - Copy and paste the link here **[nbviewer](https://nbviewer.jupyter.org/)**
 
-- Movie List **[Website](https://www.imdb.com/chart/top)**
+- Movie **[List](https://www.imdb.com/chart/top)**
