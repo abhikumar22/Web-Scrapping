@@ -9,7 +9,7 @@ Web scraping is data scraping used for extracting data from websites. Web scrapi
 - Headline_Scrapping:- https://github.com/abhikumar22/Web-Scrapping/blob/master/scrapping_headline/headline_extraction.ipynb<br>
 
 
-> Copy and paste the above link in the nbviewver<br>
+> Copy and paste the above link in the nbviewer<br>
 
 > **[nbviewer](https://nbviewer.jupyter.org/)**
 
