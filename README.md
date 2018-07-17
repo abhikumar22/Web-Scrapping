@@ -3,7 +3,10 @@ Web scraping is data scraping used for extracting data from websites. Web scrapi
 
 
 ## **Note** :- If this jupyter notebook failed to load try this here :-
-- Link :- https://github.com/abhikumar22/Web-Scrapping/blob/master/web_scrapping.ipynb<br>
+- Movie_name_Scrapping Link :- https://github.com/abhikumar22/Web-Scrapping/blob/master/web_scrapping.ipynb<br>
+
+- Headline_Scrapping Link :-https://github.com/abhikumar22/Web-Scrapping/blob/master/scrapping_headline/headline_extraction.ipynb<br>
+
 
 - Copy and paste the link here **[nbviewer](https://nbviewer.jupyter.org/)**
 
