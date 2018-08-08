@@ -10,6 +10,8 @@ Web scraping is data scraping used for extracting data from websites. Web scrapi
 
 - Table_scrapping:- https://github.com/abhikumar22/Web-Scrapping/tree/master/scrapping_table_area<br>
 
+- Paragraph_screpping:- https://github.com/abhikumar22/Web-Scrapping/blob/master/scrapping_paragraphs/Untitled.ipynb<br>
+
 
 > Copy and paste the above link in the nbviewer<br>
 
